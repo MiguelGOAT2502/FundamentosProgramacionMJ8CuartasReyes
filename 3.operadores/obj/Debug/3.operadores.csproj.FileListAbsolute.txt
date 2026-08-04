@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\3.operadores\3.operadores\bin\Debug\3.operadores.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\3.operadores\3.operadores\bin\Debug\3.operadores.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\3.operadores\3.operadores\bin\Debug\3.operadores.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\3.operadores\3.operadores\obj\Debug\3.operadores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\3.operadores\3.operadores\obj\Debug\3.operadores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\3.operadores\3.operadores\obj\Debug\3.operadores.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\3.operadores\3.operadores\obj\Debug\3.operadores.pdb
