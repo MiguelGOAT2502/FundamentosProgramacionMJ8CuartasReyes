@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\bin\Debug\4.CondicionalSimpleDoble.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\bin\Debug\4.CondicionalSimpleDoble.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\bin\Debug\4.CondicionalSimpleDoble.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\obj\Debug\4.CondicionalSimpleDoble.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\obj\Debug\4.CondicionalSimpleDoble.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\obj\Debug\4.CondicionalSimpleDoble.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\4.CondicionalSimpleDoble\4.CondicionalSimpleDoble\obj\Debug\4.CondicionalSimpleDoble.pdb
