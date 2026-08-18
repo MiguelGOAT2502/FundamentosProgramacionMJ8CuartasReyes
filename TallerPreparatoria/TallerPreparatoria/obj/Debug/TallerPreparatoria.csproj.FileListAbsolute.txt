@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerPreparatoria\TallerPreparatoria\bin\Debug\TallerPreparatoria.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerPreparatoria\TallerPreparatoria\bin\Debug\TallerPreparatoria.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerPreparatoria\TallerPreparatoria\bin\Debug\TallerPreparatoria.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerPreparatoria\TallerPreparatoria\obj\Debug\TallerPreparatoria.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerPreparatoria\TallerPreparatoria\obj\Debug\TallerPreparatoria.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerPreparatoria\TallerPreparatoria\obj\Debug\TallerPreparatoria.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerPreparatoria\TallerPreparatoria\obj\Debug\TallerPreparatoria.pdb
