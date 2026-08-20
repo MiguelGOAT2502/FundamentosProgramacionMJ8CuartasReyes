@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCondicionales\ParcialCondicionales\obj\Debug\ParcialCondicionales.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCondicionales\ParcialCondicionales\obj\Debug\ParcialCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCondicionales\ParcialCondicionales\bin\Debug\ParcialCondicionales.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCondicionales\ParcialCondicionales\bin\Debug\ParcialCondicionales.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCondicionales\ParcialCondicionales\bin\Debug\ParcialCondicionales.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCondicionales\ParcialCondicionales\obj\Debug\ParcialCondicionales.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCondicionales\ParcialCondicionales\obj\Debug\ParcialCondicionales.pdb
