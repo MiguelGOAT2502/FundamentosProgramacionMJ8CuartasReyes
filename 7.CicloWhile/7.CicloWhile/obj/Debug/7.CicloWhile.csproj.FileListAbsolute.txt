@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\7.CicloWhile\7.CicloWhile\bin\Debug\7.CicloWhile.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\7.CicloWhile\7.CicloWhile\bin\Debug\7.CicloWhile.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\7.CicloWhile\7.CicloWhile\bin\Debug\7.CicloWhile.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\7.CicloWhile\7.CicloWhile\obj\Debug\7.CicloWhile.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\7.CicloWhile\7.CicloWhile\obj\Debug\7.CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\7.CicloWhile\7.CicloWhile\obj\Debug\7.CicloWhile.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\7.CicloWhile\7.CicloWhile\obj\Debug\7.CicloWhile.pdb
