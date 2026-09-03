@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\12.CicloDoWhile\12.CicloDoWhile\bin\Debug\12.CicloDoWhile.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\12.CicloDoWhile\12.CicloDoWhile\bin\Debug\12.CicloDoWhile.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\12.CicloDoWhile\12.CicloDoWhile\bin\Debug\12.CicloDoWhile.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\12.CicloDoWhile\12.CicloDoWhile\obj\Debug\12.CicloDoWhile.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\12.CicloDoWhile\12.CicloDoWhile\obj\Debug\12.CicloDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\12.CicloDoWhile\12.CicloDoWhile\obj\Debug\12.CicloDoWhile.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\12.CicloDoWhile\12.CicloDoWhile\obj\Debug\12.CicloDoWhile.pdb
