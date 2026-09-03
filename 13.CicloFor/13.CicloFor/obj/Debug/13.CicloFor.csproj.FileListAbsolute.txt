@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\13.CicloFor\13.CicloFor\bin\Debug\13.CicloFor.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\13.CicloFor\13.CicloFor\bin\Debug\13.CicloFor.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\13.CicloFor\13.CicloFor\bin\Debug\13.CicloFor.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\13.CicloFor\13.CicloFor\obj\Debug\13.CicloFor.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\13.CicloFor\13.CicloFor\obj\Debug\13.CicloFor.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\13.CicloFor\13.CicloFor\obj\Debug\13.CicloFor.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\13.CicloFor\13.CicloFor\obj\Debug\13.CicloFor.pdb
