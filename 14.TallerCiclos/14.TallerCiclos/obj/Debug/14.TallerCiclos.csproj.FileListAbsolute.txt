@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\14.TallerCiclos\14.TallerCiclos\bin\Debug\14.TallerCiclos.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\14.TallerCiclos\14.TallerCiclos\bin\Debug\14.TallerCiclos.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\14.TallerCiclos\14.TallerCiclos\bin\Debug\14.TallerCiclos.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\14.TallerCiclos\14.TallerCiclos\obj\Debug\14.TallerCiclos.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\14.TallerCiclos\14.TallerCiclos\obj\Debug\14.TallerCiclos.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\14.TallerCiclos\14.TallerCiclos\obj\Debug\14.TallerCiclos.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\14.TallerCiclos\14.TallerCiclos\obj\Debug\14.TallerCiclos.pdb
