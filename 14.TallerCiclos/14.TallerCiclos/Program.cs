@@ -1,5 +1,6 @@
 ﻿using Microsoft.Win32;
 using System;
+using System.Diagnostics.Contracts;
 using System.Security.Cryptography;
 using System.Text;
 
@@ -70,9 +71,11 @@ namespace _14.TallerCiclos
 
             // 4.  Un entrenador le ha propuesto a un atleta recorrer una ruta de cinco kilómetros durante 10 días, para determinar si es apto para la prueba de 5 kilómetros.Para considerarlo apto debe cumplir las siguientes condiciones: Que en ninguna de las pruebas haga un tiempo mayor a 20 minutos, Que al menos en una de las pruebas realice un tiempo menor de 15 minutos, Que su promedio sea menor o igual a 18 minutos. Diseñar un algoritmo para registrar los datos y decidir si es apto para la competencia.
 
-            int tiempo = 0;
+            /*int tiempo = 0;
             int sumaTiempos = 0;
             int contador = 0;
+            bool menor15 = false;
+            bool noMayor20 = true;
 
 
             for (int dias = 1; dias <= 10; dias++)
@@ -81,18 +84,59 @@ namespace _14.TallerCiclos
                 tiempo = int.Parse(Console.ReadLine());
                 sumaTiempos += tiempo;
                 contador++;
+
+                if (tiempo < 15)
+                {
+                    menor15 = true;
+                }
+                if (tiempo > 20)
+                {
+                    noMayor20 = false;
+                }
             }
 
-            double promedio = sumaTiempos / contador;
+            double promedio = (double)sumaTiempos / contador;
 
-            if (tiempo <= 20 && tiempo < 15 && promedio <= 18)
+            if (noMayor20 && menor15 && promedio <= 18)
             {
                 Console.WriteLine("El atleta es apto para la competencia.");
             }
             else
             {
                 Console.WriteLine("El atleta no es apto para la competencia.");
+            }*/
+
+            //5. Se aplicó una encuesta a n personas solicitando su opinión sobre el tema del servicio militar obligatorio para las mujeres. Las opciones de  respuesta fueron: a favor, en contra y no responde. Se solicita un algoritmo que calcule qué porcentaje de los encuestados marcó cada una de las respuestas
+
+            int totalEncuestados = 0;
+            int favor = 0;
+            int contra = 0;
+            int noResponde = 0;
+
+            Console.WriteLine("Ingrese el número total de encuestados: ");
+            totalEncuestados = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < totalEncuestados; i++)
+            {
+                Console.WriteLine("Ingrese la respuesta para la persona {0} (a favor: 1, en contra: 2, no responde: 3): ", i + 1);
+                int respuesta = int.Parse(Console.ReadLine());
+
+                if (respuesta == 1) favor++;
+                else if (respuesta == 2) contra++;
+                else if (respuesta == 3) noResponde++;
+                else Console.WriteLine("Respuesta inválida, no se contará.");
             }
+
+            double porcentajeFavor = (double)favor / totalEncuestados * 100;
+            double porcentajeContra = (double)contra / totalEncuestados * 100;
+            double porcentajeNoResponde = (double)noResponde / totalEncuestados * 100;
+
+            Console.WriteLine("Porcentaje a favor: " + porcentajeFavor + "%");
+            Console.WriteLine("Porcentaje en contra: " + porcentajeContra + "%");
+            Console.WriteLine("Porcentaje no responde: " + porcentajeNoResponde + "%");
+
+
         }
     }
 }
+
