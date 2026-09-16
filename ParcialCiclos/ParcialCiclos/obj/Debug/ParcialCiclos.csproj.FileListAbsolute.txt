@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCiclos\ParcialCiclos\bin\Debug\ParcialCiclos.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCiclos\ParcialCiclos\bin\Debug\ParcialCiclos.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCiclos\ParcialCiclos\bin\Debug\ParcialCiclos.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCiclos\ParcialCiclos\obj\Debug\ParcialCiclos.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCiclos\ParcialCiclos\obj\Debug\ParcialCiclos.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCiclos\ParcialCiclos\obj\Debug\ParcialCiclos.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\ParcialCiclos\ParcialCiclos\obj\Debug\ParcialCiclos.pdb
