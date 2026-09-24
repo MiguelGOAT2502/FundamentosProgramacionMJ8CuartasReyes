@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\16.ArregloBidimensional-Matrices\16.ArregloBidimensional-Matrices\bin\Debug\16.ArregloBidimensional-Matrices.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\16.ArregloBidimensional-Matrices\16.ArregloBidimensional-Matrices\bin\Debug\16.ArregloBidimensional-Matrices.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\16.ArregloBidimensional-Matrices\16.ArregloBidimensional-Matrices\bin\Debug\16.ArregloBidimensional-Matrices.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\16.ArregloBidimensional-Matrices\16.ArregloBidimensional-Matrices\obj\Debug\16.ArregloBidimensional-Matrices.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\16.ArregloBidimensional-Matrices\16.ArregloBidimensional-Matrices\obj\Debug\16.ArregloBidimensional-Matrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\16.ArregloBidimensional-Matrices\16.ArregloBidimensional-Matrices\obj\Debug\16.ArregloBidimensional-Matrices.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\16.ArregloBidimensional-Matrices\16.ArregloBidimensional-Matrices\obj\Debug\16.ArregloBidimensional-Matrices.pdb
