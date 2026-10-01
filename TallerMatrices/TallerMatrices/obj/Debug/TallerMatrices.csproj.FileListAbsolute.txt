@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerMatrices\TallerMatrices\bin\Debug\TallerMatrices.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerMatrices\TallerMatrices\bin\Debug\TallerMatrices.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerMatrices\TallerMatrices\bin\Debug\TallerMatrices.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TallerMatrices\TallerMatrices\obj\Debug\TallerMatrices.pdb

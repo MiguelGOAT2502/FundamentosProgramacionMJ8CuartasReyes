@@ -1,0 +1,7 @@
+C:\Users\Windows\OneDrive - UPB\Documentos\FundamentosProgramacion\FundamentosProgramacionMJ8CuartasReyes\17.Matrices\17.Matrices\bin\Debug\17.Matrices.exe.config
+C:\Users\Windows\OneDrive - UPB\Documentos\FundamentosProgramacion\FundamentosProgramacionMJ8CuartasReyes\17.Matrices\17.Matrices\bin\Debug\17.Matrices.exe
+C:\Users\Windows\OneDrive - UPB\Documentos\FundamentosProgramacion\FundamentosProgramacionMJ8CuartasReyes\17.Matrices\17.Matrices\bin\Debug\17.Matrices.pdb
+C:\Users\Windows\OneDrive - UPB\Documentos\FundamentosProgramacion\FundamentosProgramacionMJ8CuartasReyes\17.Matrices\17.Matrices\obj\Debug\17.Matrices.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive - UPB\Documentos\FundamentosProgramacion\FundamentosProgramacionMJ8CuartasReyes\17.Matrices\17.Matrices\obj\Debug\17.Matrices.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive - UPB\Documentos\FundamentosProgramacion\FundamentosProgramacionMJ8CuartasReyes\17.Matrices\17.Matrices\obj\Debug\17.Matrices.exe
+C:\Users\Windows\OneDrive - UPB\Documentos\FundamentosProgramacion\FundamentosProgramacionMJ8CuartasReyes\17.Matrices\17.Matrices\obj\Debug\17.Matrices.pdb
