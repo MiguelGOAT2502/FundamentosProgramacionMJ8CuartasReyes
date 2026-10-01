@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Runtime.ConstrainedExecution;
+using System.Security.Cryptography;
 
 namespace TallerMatrices
 {
@@ -233,14 +234,14 @@ namespace TallerMatrices
 
             }*/
 
-            // 5. Desarrollar un programa que:  1. Le pida al usuario ingresar por teclado el número de filas y columnas de una matriz de enteros. 2.Cargue los datos de la matriz ingresándolos por teclado. 3. Muestre la matriz ingresada Luego convierta cada fila de la matriz en una columna, es decir la fila 1 pasaría a ser ahora la columna 1. 4. Mostrar la nueva matriz.
+            /*// 5. Desarrollar un programa que:  1. Le pida al usuario ingresar por teclado el número de filas y columnas de una matriz de enteros. 2.Cargue los datos de la matriz ingresándolos por teclado. 3. Muestre la matriz ingresada Luego convierta cada fila de la matriz en una columna, es decir la fila 1 pasaría a ser ahora la columna 1. 4. Mostrar la nueva matriz.
 
             Console.WriteLine("Ingrese el número de filas:");
             int filas = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese el número de columnas:");
             int columnas = int.Parse(Console.ReadLine());
 
-            // ingresar los datos de la matriz
+            
             int[,] matriz = new int[filas, columnas];
             Console.WriteLine("Ingrese los datos de la matriz:");
             for (int i = 0; i < filas; i++)
@@ -252,7 +253,7 @@ namespace TallerMatrices
                 }
             }
 
-            // mostrar la matriz ingresada
+            
             Console.WriteLine("Matriz ingresada:");
             for (int i = 0; i < filas; i++)
             {
@@ -263,7 +264,7 @@ namespace TallerMatrices
                 Console.WriteLine();
             }
 
-            // convertir cada fila en una columna
+            
             int[,] nuevaMatriz = new int[columnas, filas];
             for (int i = 0; i < filas; i++)
             {
@@ -273,7 +274,7 @@ namespace TallerMatrices
                 }
             }
 
-            // mostrar la nueva matriz
+            
             Console.WriteLine("Nueva matriz (filas convertidas en columnas):");
             for (int i = 0; i < columnas; i++)
             {
@@ -282,7 +283,72 @@ namespace TallerMatrices
                     Console.Write($"{nuevaMatriz[i, j],4} ");
                 }
                 Console.WriteLine();
+            }*/
+
+            //6. Crear una aplicación en C# que permita realizar las siguientes acciones: 1. Crear una matriz de n filas por m columnas Llenar la matriz con números aleatorios del 1 al 3(investigar la función random en C#)   2.Mostrar la matriz generada  3.Mostrar por pantalla cuantas veces fue ingresado el número 1, el número 2, y el número 3, y cuál de los tres números fue repetido más veces.
+            int n;
+            int m;
+
+            Console.WriteLine("Ingrese el número de filas:");
+            n = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese el número de columnas:");
+            m = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Matriz generada:");
+            Random ran = new Random();
+            int[,] matriz = new int[n, m];
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < m; j++)
+                {
+                    matriz[i, j] = ran.Next(1, 4);
+                }
             }
+
+            
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < m; j++)
+                {
+                    Console.Write($"{matriz[i, j],4} ");
+                }
+                Console.WriteLine();
+            }
+
+            
+            int count1 = 0, count2 = 0, count3 = 0;
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < m; j++)
+                {
+                    switch (matriz[i, j])
+                    {
+                        case 1:
+                            count1++;
+                            break;
+                        case 2:
+                            count2++;
+                            break;
+                        case 3:
+                            count3++;
+                            break;
+                    }
+                }
+            }
+
+            
+            Console.WriteLine($"Número 1 repetido {count1} veces.");
+            Console.WriteLine($"Número 2 repetido {count2} veces.");
+            Console.WriteLine($"Número 3 repetido {count3} veces.");
+
+            if (count1 >= count2 && count1 >= count3)
+                Console.WriteLine("El número 1 fue repetido más veces.");
+            else if (count2 >= count1 && count2 >= count3)
+                Console.WriteLine("El número 2 fue repetido más veces.");
+            else
+                Console.WriteLine("El número 3 fue repetido más veces.");
         }
+
+
     }
 }
