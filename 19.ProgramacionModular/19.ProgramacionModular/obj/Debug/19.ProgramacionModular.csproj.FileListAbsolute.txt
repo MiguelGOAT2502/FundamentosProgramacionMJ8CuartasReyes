@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\19.ProgramacionModular\19.ProgramacionModular\bin\Debug\19.ProgramacionModular.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\19.ProgramacionModular\19.ProgramacionModular\bin\Debug\19.ProgramacionModular.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\19.ProgramacionModular\19.ProgramacionModular\bin\Debug\19.ProgramacionModular.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\19.ProgramacionModular\19.ProgramacionModular\obj\Debug\19.ProgramacionModular.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\19.ProgramacionModular\19.ProgramacionModular\obj\Debug\19.ProgramacionModular.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\19.ProgramacionModular\19.ProgramacionModular\obj\Debug\19.ProgramacionModular.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\19.ProgramacionModular\19.ProgramacionModular\obj\Debug\19.ProgramacionModular.pdb
