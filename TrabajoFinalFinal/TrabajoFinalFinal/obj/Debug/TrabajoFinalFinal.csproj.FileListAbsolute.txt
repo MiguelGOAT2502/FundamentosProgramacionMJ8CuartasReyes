@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TrabajoFinalFinal\TrabajoFinalFinal\bin\Debug\TrabajoFinalFinal.exe.config
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TrabajoFinalFinal\TrabajoFinalFinal\bin\Debug\TrabajoFinalFinal.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TrabajoFinalFinal\TrabajoFinalFinal\bin\Debug\TrabajoFinalFinal.pdb
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TrabajoFinalFinal\TrabajoFinalFinal\obj\Debug\TrabajoFinalFinal.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TrabajoFinalFinal\TrabajoFinalFinal\obj\Debug\TrabajoFinalFinal.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TrabajoFinalFinal\TrabajoFinalFinal\obj\Debug\TrabajoFinalFinal.exe
+C:\Users\B09S104est\Documents\MCR\FundamentosProgramacionMJ8CuartasReyes\TrabajoFinalFinal\TrabajoFinalFinal\obj\Debug\TrabajoFinalFinal.pdb
